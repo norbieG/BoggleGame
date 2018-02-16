@@ -1,1 +1,1 @@
-This code by using recursive backtracking and classes implements the Boggle game.
+In this code by using recursive backtracking and classes I implement my solution to CS106B Boggle game.
